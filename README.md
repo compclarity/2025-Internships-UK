@@ -8,7 +8,15 @@ For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/bl
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
-| DRW | Software Developer Intern | London | [Apply](https://boards.greenhouse.io/drweng/jobs/6000871) | 20 July 2024 |
+| The Trade Desk | Software Engineer Intern 2025 | London | [Apply](https://careers.thetradedesk.com/jobs/4427560007/2025-summer-intern-software-engineer-london) | 24 July 2024 |
+| CCI | Software Developer Internship 2025 | London | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-IT-Developer-Internship--Summer-2025-_R857-1?locations=f2015cfc02f00191c190c981a701650e) | 24 July 2024 |
+| CCI | Data Science Machine Learning Internship 2025 | London | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2025-_R856?locations=f2015cfc02f00191c190c981a701650e) | 24 July 2024 |
+| CCI | Commodities Trading Internship 2025 | London | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2025-_R852?locations=f2015cfc02f00191c190c981a701650e) | 24 July 2024 |
+| QRT | Data Analytics Intern | London | [Apply](https://www.qube-rt.com/careers/job?gh_jid=7497802002) | 24 July 2024 |
+| DRW | Software Developer Intern 2025 | London | [Apply](https://boards.greenhouse.io/drweng/jobs/6000871) | 24 July 2024 |
+| DRW | Quantitative Trading Analyst Intern 2025 | London | [Apply](https://boards.greenhouse.io/drweng/jobs/5997671) | 24 July 2024 |
+| DRW | Quantitative Research Intern 2025 | London | [Apply](https://boards.greenhouse.io/drweng/jobs/6000854) | 24 July 2024 |
+| Citadel | Quant Researcher 2025 PhD Intern | London | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-europe-2/) | 24 July 2024 |
 | DE Shaw | Trader/Analyst Intern 2025 | London | [Apply](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2025-5090) | 17 July 2024 |
 | DE Shaw | Systems Administrator Industry Placement Year | London | [Apply](https://www.deshaw.com/careers/systems-administrator-industry-placement-year-london-5139) | 17 July 2024 |
 | GSA Capital | Software Developer - Intern | London | [Apply](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=6795640002) | 17 July 2024 |
