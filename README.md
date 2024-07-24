@@ -6,7 +6,6 @@ For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/bl
 ---
 
 # List
-
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
 | The Trade Desk | Software Engineer Intern 2025 | London | [Apply](https://careers.thetradedesk.com/jobs/4427560007/2025-summer-intern-software-engineer-london) | 24 July 2024 |
