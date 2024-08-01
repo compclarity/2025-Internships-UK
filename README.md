@@ -22,6 +22,7 @@ For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/bl
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Marshall Wace | SWE Intern | London | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7501403002?gh_src=6df8b42e2us) | 1 August 2024 |
 | Millennium | SWE Intern | London | [Apply](https://mlp.eightfold.ai/careers/job/755938466600?microsite=campus-site) | 1 August 2024 |
 | Palantir | SWE Intern | London | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) | 1 August 2024 |
 | Palantir | FDSE Intern | London | [Apply](https://jobs.lever.co/palantir/7f744341-9e34-44e8-915f-4f083a0c0d30/apply) | 1 August 2024 |
