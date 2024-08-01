@@ -10,6 +10,7 @@ Track your job applications today [here](https://compclarity.com/tracker)!
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Millennium | SWE Intern | London | [Apply](https://mlp.eightfold.ai/careers/job/755938466600?microsite=campus-site) | 1 August 2024 |
 | Palantir | SWE Intern | London | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) | 1 August 2024 |
 | Palantir | FDSE Intern | London | [Apply](https://jobs.lever.co/palantir/7f744341-9e34-44e8-915f-4f083a0c0d30/apply) | 1 August 2024 |
 | The Trade Desk | Software Engineer Intern 2025 | London | [Apply](https://careers.thetradedesk.com/jobs/4427560007/2025-summer-intern-software-engineer-london) | 24 July 2024 |
