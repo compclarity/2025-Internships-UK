@@ -3,11 +3,15 @@ Below is a collection of all tech-related internships in the UK for Summer 2025.
 
 For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/blob/main/CONTRIBUTE.md)!
 
+Track your job applications today [here](https://compclarity.com/tracker)!
+
 ---
 
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Palantir | SWE Intern | London | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) | 1 August 2024 |
+| Palantir | FDSE Intern | London | [Apply](https://jobs.lever.co/palantir/7f744341-9e34-44e8-915f-4f083a0c0d30/apply) | 1 August 2024 |
 | The Trade Desk | Software Engineer Intern 2025 | London | [Apply](https://careers.thetradedesk.com/jobs/4427560007/2025-summer-intern-software-engineer-london) | 24 July 2024 |
 | CCI | Software Developer Internship 2025 | London | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-IT-Developer-Internship--Summer-2025-_R857-1?locations=f2015cfc02f00191c190c981a701650e) | 24 July 2024 |
 | CCI | Data Science Machine Learning Internship 2025 | London | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2025-_R856?locations=f2015cfc02f00191c190c981a701650e) | 24 July 2024 |
