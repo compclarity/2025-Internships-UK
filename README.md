@@ -20,6 +20,9 @@ For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/bl
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Talos | SWE Intern | London | [Apply](https://jobs.ashbyhq.com/Talos-Trading/4967dc6d-b589-447f-ba9e-671fb0e638ee/application?utm_source=CompClarity) | 6 August 2024 |
+| BNP Paribas | SWE Intern | London | [Apply](https://bnpparibas.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-807236/xf-74fcfccade6f/candidate/so/pm/1/pl/1/opp/2150-London-2025-Summer-Internship-Technology/en-GB?utm_source=CompClarity) | 6 August 2024| 
+| Citadel | SWE Intern | London | [Apply](https://www.citadel.com/careers/details/software-engineer-2025-intern-europe/?utm_source=CompClarity) | 6 August 2024 |
 | Marshall Wace | Technology Intern | London | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7501403002?gh_src=6df8b42e2us) | 1 August 2024 |
 | Millennium | SWE Intern | London | [Apply](https://mlp.eightfold.ai/careers/job/755938466600?microsite=campus-site) | 1 August 2024 |
 | Palantir | SWE Intern | London | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) | 1 August 2024 |
