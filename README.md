@@ -20,6 +20,8 @@ For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/bl
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Jump Trading | Tech Ops Intern | London | [Apply](https://www.jumptrading.com/careers/5624733/?utm_source=CompClarity) | 12 August 2024 |
+| Jane Street | SWE Intern | London | [Apply](https://www.janestreet.com/join-jane-street/position/7531041002/?utm_source=CompClarity) | 12 August 2024 |
 | Talos | SWE Intern | London | [Apply](https://jobs.ashbyhq.com/Talos-Trading/4967dc6d-b589-447f-ba9e-671fb0e638ee/application?utm_source=CompClarity) | 6 August 2024 |
 | BNP Paribas | SWE Intern | London | [Apply](https://bnpparibas.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-807236/xf-74fcfccade6f/candidate/so/pm/1/pl/1/opp/2150-London-2025-Summer-Internship-Technology/en-GB?utm_source=CompClarity) | 6 August 2024| 
 | Citadel | SWE Intern | London | [Apply](https://www.citadel.com/careers/details/software-engineer-2025-intern-europe/?utm_source=CompClarity) | 6 August 2024 |
