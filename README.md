@@ -20,6 +20,9 @@ For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/bl
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Proton | DevOps Engineer | London | [Apply](https://job-boards.eu.greenhouse.io/proton/jobs/4378513101?utm_source=CompClarity) | 16 August 2024 | 
+| Goldman Sachs | Engineering Summer Analyst | London | [Apply](https://higher.gs.com/roles/128541?utm_source=CompClarity) | 16 August 2024 |
+| Goldman Sachs | Engineering Summer Analyst | Birmingham | [Apply](https://higher.gs.com/roles/128534?utm_source=CompClarity) | 16 August 2024 |
 | Jump Trading | Tech Ops Intern | London | [Apply](https://www.jumptrading.com/careers/5624733/?utm_source=CompClarity) | 12 August 2024 |
 | Jane Street | SWE Intern | London | [Apply](https://www.janestreet.com/join-jane-street/position/7531041002/?utm_source=CompClarity) | 12 August 2024 |
 | Talos | SWE Intern | London | [Apply](https://jobs.ashbyhq.com/Talos-Trading/4967dc6d-b589-447f-ba9e-671fb0e638ee/application?utm_source=CompClarity) | 6 August 2024 |
