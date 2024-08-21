@@ -20,7 +20,8 @@ For contributing, click [here](https://github.com/devzenq/2025-Internships-UK/bl
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
-| Proton | DevOps Engineer | London | [Apply](https://job-boards.eu.greenhouse.io/proton/jobs/4378513101?utm_source=CompClarity) | 16 August 2024 | 
+| Bank of America | Software Engineer Intern | Bromley | [Apply](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-3887283/xf-68ba4540d909/candidate/so/pm/1/pl/1/opp/11889-Global-Technology-Software-Engineer-Summer-2025-Analyst-Bromley/en-GB?utm_source=CompClarity) | 21 August 2024 |
+| Proton | DevOps Engineer Intern | London | [Apply](https://job-boards.eu.greenhouse.io/proton/jobs/4378513101?utm_source=CompClarity) | 16 August 2024 | 
 | Goldman Sachs | Engineering Summer Analyst | London | [Apply](https://higher.gs.com/roles/128541?utm_source=CompClarity) | 16 August 2024 |
 | Goldman Sachs | Engineering Summer Analyst | Birmingham | [Apply](https://higher.gs.com/roles/128534?utm_source=CompClarity) | 16 August 2024 |
 | Jump Trading | Tech Ops Intern | London | [Apply](https://www.jumptrading.com/careers/5624733/?utm_source=CompClarity) | 12 August 2024 |
