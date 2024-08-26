@@ -22,6 +22,9 @@ For graduate roles, click [here](https://github.com/devzenq/Graduate-Roles-UK)!
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Jump Trading | SWE Intern | London | [Apply](https://www.jumptrading.com/careers/5624032/?utm_source=CompClarity) | 26 August 2024 |
+| Jump Trading | SWE Intern | Bristol | [Apply](https://www.jumptrading.com/careers/5624727/?utm_source=CompClarity) | 26 August 2024 |
+| Amazon | SWE Intern | London | [Apply](https://amazon.jobs/en/jobs/2605274/2025-software-dev-engineer-intern?utm_source=CompClarity) | 26 August 2024 |
 | Bank of America | Software Engineer Intern | Bromley | [Apply](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-3887283/xf-68ba4540d909/candidate/so/pm/1/pl/1/opp/11889-Global-Technology-Software-Engineer-Summer-2025-Analyst-Bromley/en-GB?utm_source=CompClarity) | 21 August 2024 |
 | Proton | DevOps Engineer Intern | London | [Apply](https://job-boards.eu.greenhouse.io/proton/jobs/4378513101?utm_source=CompClarity) | 16 August 2024 | 
 | Goldman Sachs | Engineering Summer Analyst | London | [Apply](https://higher.gs.com/roles/128541?utm_source=CompClarity) | 16 August 2024 |
