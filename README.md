@@ -22,6 +22,18 @@ For graduate roles, click [here](https://github.com/devzenq/Graduate-Roles-UK)!
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Quadrature | Quant Dev Internship | London | [Apply](https://boards.greenhouse.io/quadraturecapital/jobs/4255974?utm_source=CompClarity) | 2 September 2024 |
+| Epic Games | Gameplay Programmer Intern | London | [Apply](https://boards.greenhouse.io/embed/job_app?token=5290673004&gh_src=32b5d0474us&utm_source=CompClarity) | 2 September 2024 |
+| Morgan Stanley | Technology Summer Analyst - Application Development | London | [Apply](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-9f362b05a001/candidate/so/pm/1/pl/1/opp/18442-2025-Technology-Summer-Analyst-Program-Application-Development-Glasgow/en-GB?utm_source=CompClarity) | 2 September 2024 |
+| Morgan Stanley | Technology Summer Analyst - Enterprise Engineering | London | [Apply](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-9f362b05a001/candidate/so/pm/1/pl/1/opp/18443-2025-Technology-Summer-Analyst-Program-Enterprise-Engineering-Glasgow/en-GB?utm_source=CompClarity) | 2 September 2024 |
+| Maven Securities | Software Developer Intern | London | [Apply](https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/5879805?utm_source=CompClarity) | 2 September 2024 |
+| Macquarie | Technology Summer Analyst | London | [Apply](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11976&utm_source=CompClarity) | 2 September 2024 |
+| JP Morgan | Software Engineer Internship | London/Glasgow | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210552959?utm_source=CompClarity) | 2 September 2024 |
+| Nomura | Summer Intern - IT | London | [Apply](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-598163/xf-08e2e6b24837/candidate/so/pm/1/pl/1/opp/1056-2025-Information-Technology-Summer-Internship-London/en-GB?utm_source=CompClarity) | 2 September 2024 |
+| Runna | Software Engineer Intern - Modelling | London | [Apply](https://apply.workable.com/runna/j/9309B6631C/?utm_source=CompClarity) | 2 September 2024 |
+| Runna | Software Engineer Intern - Machine Learning | London | [Apply](https://apply.workable.com/runna/j/7658AD0735/?utm_source=CompClarity) | 2 September 2024 |
+| Runna | Software Engineer Intern - Full Stack | London | [Apply](https://apply.workable.com/runna/j/5468599006/?utm_source=CompClarity) | 2 September 2024 |
+| PIMCO | Summer Technology Analyst | London | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2025-Summer-Intern---Technology-Analyst--Software-Engineering--London_R104487?locationCountry=29247e57dbaf46fb855b224e03170bc7&locations=c3a960b7b21f10016312adea6fcd0000&jobFamilyGroup=b27adc21fb841001104e883f4e350000&utm_source=CompClarity) | 2 September 2024 |
 | Jump Trading | SWE Intern | London | [Apply](https://www.jumptrading.com/careers/5624032/?utm_source=CompClarity) | 26 August 2024 |
 | Jump Trading | SWE Intern | Bristol | [Apply](https://www.jumptrading.com/careers/5624727/?utm_source=CompClarity) | 26 August 2024 |
 | Amazon | SWE Intern | London | [Apply](https://amazon.jobs/en/jobs/2605274/2025-software-dev-engineer-intern?utm_source=CompClarity) | 26 August 2024 |
