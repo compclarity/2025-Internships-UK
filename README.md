@@ -22,6 +22,10 @@ For graduate roles, click [here](https://github.com/devzenq/Graduate-Roles-UK)!
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Epic Games | Tools Programmer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5278881004?utm_source=CompClarity) | 5 Sep 2024
+| Epic Games | Engine Programmer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5285486004?utm_source=CompClarity) | 5 Sep 2024
+| Epic Games | Backend Engineer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5299257004?utm_source=CompClarity) | 5 Sep 2024
+| Baillie Gifford | SWE Intern | London | [Apply](https://bailliegifford.wd3.myworkdayjobs.com/en-US/BaillieGiffordEarlyCareers/job/Software-Development-Summer-Internship-2025_R0003868?utm_source=CompClarity) | 5 September 2024
 | Quadrature | Quant Dev Internship | London | [Apply](https://boards.greenhouse.io/quadraturecapital/jobs/4255974?utm_source=CompClarity) | 2 September 2024 |
 | Epic Games | Gameplay Programmer Intern | London | [Apply](https://boards.greenhouse.io/embed/job_app?token=5290673004&gh_src=32b5d0474us&utm_source=CompClarity) | 2 September 2024 |
 | Morgan Stanley | Technology Summer Analyst - Application Development | London | [Apply](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-9f362b05a001/candidate/so/pm/1/pl/1/opp/18442-2025-Technology-Summer-Analyst-Program-Application-Development-Glasgow/en-GB?utm_source=CompClarity) | 2 September 2024 |
