@@ -22,6 +22,7 @@ For graduate roles, click [here](https://github.com/devzenq/Graduate-Roles-UK)!
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| BAT | Data Science Intern | Southampton | [Apply](https://careers.bat.com/job/-/-/1045/16548861952)   | 5 Sep 2024 |
 | Epic Games | Tools Programmer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5278881004?utm_source=CompClarity) | 5 Sep 2024
 | Epic Games | Engine Programmer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5285486004?utm_source=CompClarity) | 5 Sep 2024
 | Epic Games | Backend Engineer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5299257004?utm_source=CompClarity) | 5 Sep 2024
