@@ -23,8 +23,8 @@ For graduate roles, click [here](https://github.com/devzenq/Graduate-Roles-UK)!
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
 
-| Amazon | SWE Intern | London | [Apply](https://www.amazon.jobs/en/jobs/2772291/2025-software-dev-engineer-intern-uk?utm_source=CompClarity) | 12 Sep 2024
-| QRT | Quant Dev Intern | London | [Apply](https://www.qube-rt.com/careers/job?gh_jid=7609102002&utm_source=CompClarity) | 12 Sep 2024
+| Amazon | SWE Intern | London | [Apply](https://www.amazon.jobs/en/jobs/2772291/2025-software-dev-engineer-intern-uk?utm_source=CompClarity) | 12 Sep 2024 |
+| QRT | Quant Dev Intern | London | [Apply](https://www.qube-rt.com/careers/job?gh_jid=7609102002&utm_source=CompClarity) | 12 Sep 2024 |
 | BAT | Data Science Intern | Southampton | [Apply](https://careers.bat.com/job/-/-/1045/16548861952) | 5 Sep 2024 |
 | Epic Games | Tools Programmer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5278881004?utm_source=CompClarity) | 5 Sep 2024
 | Epic Games | Engine Programmer Intern | London | [Apply](https://job-boards.greenhouse.io/epicgames/jobs/5285486004?utm_source=CompClarity) | 5 Sep 2024
