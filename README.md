@@ -22,6 +22,10 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Mizuho Group| IT Developer Summer Internship | London | [Apply](https://www.grb.uk.com/internships/mizuho-it-developer-summer-internship-london-35354?utm_source=CompClarity) | 15 September 2024 |
+| Wells Fargo | Technology Summer Analyst | London | [Apply](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/London-England/EMEA-Technology-Summer-Analyst_R-402281-1?utm_source=CompClarity) | 15 September 2024 |
+| BAE Systems | Software Engineer Internship | London | [Apply](https://jobsearch.baesystems.com/job/summer-internship-software-engineer-121083?utm_source=CompClarity) | 15 September 2024 |
+| Softwire | Software Development Internship | London | [Apply](https://www.softwire.com/vacancy/software-development-internship-2/?utm_source=CompClarity) | 15 September 2024 |
 | Amazon | SWE Intern | London | [Apply](https://www.amazon.jobs/en/jobs/2772291/2025-software-dev-engineer-intern-uk?utm_source=CompClarity) | 12 Sep 2024 |
 | QRT | Quant Dev Intern | London | [Apply](https://www.qube-rt.com/careers/job?gh_jid=7609102002&utm_source=CompClarity) | 12 Sep 2024 |
 | BAT | Data Science Intern | Southampton | [Apply](https://careers.bat.com/job/-/-/1045/16548861952) | 5 Sep 2024 |
