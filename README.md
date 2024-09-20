@@ -22,6 +22,12 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Dell | SWE Intern | Remote | [Apply](https://jobs.dell.com/en/job/-/-/375/62890783392?utm_source=CompClarity) | 20 Sep 2024 | 
+| Deutsche Bank | Tech Intern | London | [Apply](https://db.recsolu.com/external/requisitions/np37E-pxJhBcIBI6tvQJ5A?utm_source=CompClarity) | 20 Sep 2024 |
+| Capital One | SWE Intern | London/Nottingham | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Intern_R197275-1?utm_source=CompClarity) | 20 Sep 2024 |
+| Google | SWE/SRE Intern | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/88978621586121414-software-engineering-site-reliability-engineering-bsms-intern-2025?utm_source=CompClarity) | 20 Sep 2024 |
+| Google | APM Intern | London | [Apply](https://www.google.com/about/careers/applications/jobs/results/90988829489406662-associate-product-manager-bsms-intern-2025?utm_source=CompClarity) | 20 Sep 2024 |
+| Cisco | SWE Internship | Harpenden | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Software-Engineer-Internship-Summer-2025/1428768?utm_source=CompClarity) | 20 September 2024|
 | Mizuho Group| IT Developer Summer Internship | London | [Apply](https://www.grb.uk.com/internships/mizuho-it-developer-summer-internship-london-35354?utm_source=CompClarity) | 15 September 2024 |
 | Wells Fargo | Technology Summer Analyst | London | [Apply](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/London-England/EMEA-Technology-Summer-Analyst_R-402281-1?utm_source=CompClarity) | 15 September 2024 |
 | BAE Systems | Software Engineer Internship | London | [Apply](https://jobsearch.baesystems.com/job/summer-internship-software-engineer-121083?utm_source=CompClarity) | 15 September 2024 |
