@@ -22,6 +22,10 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Barclays | London | Cyber Intern | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Technology---Cyber---Security-Summer-Intern-Programme-2025-London_JR-0000014002?utm_source=CompClarity) | 23 Sep 2024 |
+| Everest Re | London | IT Summer Intern | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/everestre/careers/job/XMLNAME-2025-Information-Technology-Summer-Internship-Program---London_R5562?utm_source=CompClarity) | 23 Sep 2024 |
+| HubSpot | SWE Intern | London | [Apply](https://www.hubspot.com/careers/jobs/5272398?gh_jid=5272398&utm_source=CompClarity) | 23 Sep 2024 |
+| NatWest | SWE Intern | Edinburgh | [Apply](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Edinburgh/Software-Engineering----Internship_R-00242449?utm_source=CompClarity) | 23 Sep 2024 |
 | Dell | SWE Intern | Remote | [Apply](https://jobs.dell.com/en/job/-/-/375/62890783392?utm_source=CompClarity) | 20 Sep 2024 | 
 | Deutsche Bank | Tech Intern | London | [Apply](https://db.recsolu.com/external/requisitions/np37E-pxJhBcIBI6tvQJ5A?utm_source=CompClarity) | 20 Sep 2024 |
 | Capital One | SWE Intern | London/Nottingham | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Intern_R197275-1?utm_source=CompClarity) | 20 Sep 2024 |
