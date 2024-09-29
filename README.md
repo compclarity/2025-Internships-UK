@@ -22,6 +22,12 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Natwest | SWE Intern | London | [Apply](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Edinburgh/Software-Engineering----Internship_R-00242449?utm_source=CompClarity) | 29 Sep 2024 |
+| Amex | SWE Intern | Burgess Hill | [Apply](https://aexp.eightfold.ai/careers/job/25214177?utm_source=CompClarity) | 29 Sep 2024 |
+| Aemx | Cyber Intern | Burgess Hill | [Apply](https://aexp.eightfold.ai/careers/job/25215510?utm_source=CompClarity) | 29 Sep 2024 |
+| Revolut | Python SWE Intern | London | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-python-software-engineer-efcda77a-7b75-4400-a5f2-85eb4def7389/?utm_source=CompClarity) | 29 Sep 2024 |
+| BP | Digital Intern | Sunbury | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/Summer-Internship---Digital---Science---Technology---UK_RQ085668?utm_source=CompClarity) | 29 Sep 2024 |
+| Sky | SWE Intern | Osterley | [Apply](https://skyearlycareers.groupgti.com/software-engineering-internship/776/viewdetails?utm_source=CompClarity) | 29 Sep 2024 |
 | Barclays | Cyber Intern | London | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Technology---Cyber---Security-Summer-Intern-Programme-2025-London_JR-0000014002?utm_source=CompClarity) | 23 Sep 2024 |
 | Everest Re | IT Summer Intern | London | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/everestre/careers/job/XMLNAME-2025-Information-Technology-Summer-Internship-Program---London_R5562?utm_source=CompClarity) | 23 Sep 2024 |
 | HubSpot | SWE Intern | London | [Apply](https://www.hubspot.com/careers/jobs/5272398?gh_jid=5272398&utm_source=CompClarity) | 23 Sep 2024 |
