@@ -8,7 +8,7 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 ---
 <div align="center">
 	<p>
-		<a href="https://compclarity.com/tracker">
+		<a href="https://compclarity.com">
 			<b>Want to streamline your internship application process?</b>
 			<br>
 			Track all your job applications in one place (+ see salaries)!
