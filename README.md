@@ -22,6 +22,10 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Vanguard | Technology Intern | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Technology-Internship--Summer-2025-_163791?utm_source=CompClarity) | 13 Oct 2024 |
+| Amazon | Solutions Architect Intern | [Apply](https://www.amazon.jobs/en-gb/jobs/2799453/solutions-architect-intern-2025?utm_source=CompClarity) | 13 Oct 2024 |
+| LSEG | SWE Intern | London | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Technology-Summer-Internship-Programme-2025_R0095605?utm_source=CompClarity) | 13 Oct 2024 |
+| Monzo | SWE Intern | London | [Appy](https://job-boards.greenhouse.io/monzo/jobs/6266518?utm_source=CompClarity) | 13 Oct 2024 |
 | Natwest | SWE Intern | London | [Apply](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Edinburgh/Software-Engineering----Internship_R-00242449?utm_source=CompClarity) | 29 Sep 2024 |
 | Amex | SWE Intern | Burgess Hill | [Apply](https://aexp.eightfold.ai/careers/job/25214177?utm_source=CompClarity) | 29 Sep 2024 |
 | Aemx | Cyber Intern | Burgess Hill | [Apply](https://aexp.eightfold.ai/careers/job/25215510?utm_source=CompClarity) | 29 Sep 2024 |
