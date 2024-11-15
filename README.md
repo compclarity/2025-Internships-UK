@@ -22,6 +22,12 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Northrop Grumman | SWE Intern | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Intern---Software-Engineer_R10176511?utm_source=CompClarity) | 12 Nov 2024
+| Citi | SWE Intern | London | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/XMLNAME-2025--Technology-Summer-Analyst--Summer-Internship--London_24806398?utm_source=CompClarity) | 12 Nov 2024 |
+| Blackstone | SDE Summer Analyst | London | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2025-Blackstone-Technology---Innovations----Software-Developer-Summer-Analyst_32393?utm_source=CompClarity) | 8 Nov 2024 |
+| Amazon | Data Science Intern | London | [Apply](https://www.amazon.jobs/en-gb/jobs/2816295/2025-data-scientist-internship-multiple-locations-amazon-university-talent-acquisition?utm_source=CompClarity) | 8 Nov 2024 |
+| Meta | SWE Intern | London | [Apply](https://careers.wbd.com/global/en/job/R000084991/Software-Engineering-Intern-Summer-2025?utm_source=CompClarity) | 2 Nov 2024 |
+| Warner Bros | SWE Intern | London | [Apply](https://careers.wbd.com/global/en/job/R000084991/Software-Engineering-Intern-Summer-2025?utm_source=CompClarity) | 29 Oct 2024 |
 | Cloudflare | SWE Intern | London | [Apply](https://job-boards.greenhouse.io/cloudflare/jobs/6342326?gh_jid=6342326&utm_source=CompClarity) | 29 Oct 2024 |
 | QRT | FPGA Intern | London | [Apply](https://www.qube-rt.com/careers/job?gh_jid=7699787002&utm_source=CompClarity) | 29 Oct 2024 |
 | Arm | FPGA Intern | Cambridge | [Apply](https://careers.arm.com/job/cambridge/fpga-engineering-intern/33099/71055496672?utm_source=CompClarity) | 28 Oct 2024 |
