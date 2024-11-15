@@ -22,6 +22,9 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| QRT | FPGA Intern | London | [Apply](https://www.qube-rt.com/careers/job?gh_jid=7699787002&utm_source=CompClarity) | 29 Oct 2024 |
+| Arm | FPGA Intern | Cambridge | [Apply](https://careers.arm.com/job/cambridge/fpga-engineering-intern/33099/71055496672?utm_source=CompClarity) | 28 Oct 2024 |
+| Verisk | Tech Intern | London | [Apply](https://jobs.smartrecruiters.com/Verisk/744000021429234-tech-2025-summer-internship-program?trid=d0ac6284-4b0c-4e8f-b37d-95b9edac9c32&utm_source=CompClarity) | 28 Oct 2024 |
 | Vanguard | Technology Intern | London | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Technology-Internship--Summer-2025-_163791?utm_source=CompClarity) | 13 Oct 2024 |
 | Amazon | Solutions Architect Intern | London | [Apply](https://www.amazon.jobs/en-gb/jobs/2799453/solutions-architect-intern-2025?utm_source=CompClarity) | 13 Oct 2024 |
 | LSEG | SWE Intern | London | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Technology-Summer-Internship-Programme-2025_R0095605?utm_source=CompClarity) | 13 Oct 2024 |
