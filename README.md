@@ -22,6 +22,7 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Cloudflare | SWE Intern | London | [Apply](https://job-boards.greenhouse.io/cloudflare/jobs/6342326?gh_jid=6342326&utm_source=CompClarity) | 29 Oct 2024 |
 | QRT | FPGA Intern | London | [Apply](https://www.qube-rt.com/careers/job?gh_jid=7699787002&utm_source=CompClarity) | 29 Oct 2024 |
 | Arm | FPGA Intern | Cambridge | [Apply](https://careers.arm.com/job/cambridge/fpga-engineering-intern/33099/71055496672?utm_source=CompClarity) | 28 Oct 2024 |
 | Verisk | Tech Intern | London | [Apply](https://jobs.smartrecruiters.com/Verisk/744000021429234-tech-2025-summer-internship-program?trid=d0ac6284-4b0c-4e8f-b37d-95b9edac9c32&utm_source=CompClarity) | 28 Oct 2024 |
