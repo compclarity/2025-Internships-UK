@@ -22,7 +22,7 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
-| Northrop Grumman | SWE Intern | Cheltenham | | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Intern---Software-Engineer_R10176511?utm_source=CompClarity) | 12 Nov 2024 |
+| Northrop Grumman | SWE Intern | Cheltenham | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Intern---Software-Engineer_R10176511?utm_source=CompClarity) | 12 Nov 2024 |
 | Citi | SWE Intern | London | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/XMLNAME-2025--Technology-Summer-Analyst--Summer-Internship--London_24806398?utm_source=CompClarity) | 12 Nov 2024 |
 | Blackstone | SDE Summer Analyst | London | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2025-Blackstone-Technology---Innovations----Software-Developer-Summer-Analyst_32393?utm_source=CompClarity) | 8 Nov 2024 |
 | Amazon | Data Science Intern | London | [Apply](https://www.amazon.jobs/en-gb/jobs/2816295/2025-data-scientist-internship-multiple-locations-amazon-university-talent-acquisition?utm_source=CompClarity) | 8 Nov 2024 |
